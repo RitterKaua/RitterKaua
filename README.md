@@ -24,9 +24,9 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará uma vitrine das min
 ## 📫 Como me encontrar
 
 <!-- Adicione seus links de contato ou redes sociais -->
-- [LinkedIn](#)
-- [Twitter](#)
-- [Site pessoal](#)
+- [LinkedIn](www.linkedin.com/in/kauaritter)
+- [Instagram](https://www.instagram.com/silvaritter_/)
+- [Site pessoal](my-port-ruddy.vercel.app)
 
 ---
 
