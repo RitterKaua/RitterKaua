@@ -14,17 +14,10 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará uma vitrine das min
 - Frameworks/Bibliotecas: `React`, `Node.js`, `Django`
 - Ferramentas: `Git`, `Docker`, `VS Code`
 
-## 🌟 Projetos em destaque
-
-- **Projeto 1**: _Breve descrição sobre o projeto e seu propósito._
-- **Projeto 2**: _Outro destaque do seu portfólio._
-
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/kauaritter)
 - [Instagram](https://www.instagram.com/silvaritter_/)
-- [Site pessoal](https://my-port-ruddy.vercel.app)
-
 ---
 
 > "Código é como humor. Quando você precisa explicar, é porque não está bom."
